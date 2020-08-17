@@ -1,4 +1,4 @@
-package dnspod
+package dnspodgo
 
 import (
 	"net/http"

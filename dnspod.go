@@ -1,7 +1,7 @@
 // Package dnspod implements a client for the dnspod API.
 //
 // In order to use this package you will need a dnspod account and your API Token.
-package dnspod
+package dnspodgo
 
 import (
 	"encoding/json"
