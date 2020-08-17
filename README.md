@@ -1,8 +1,8 @@
 # DNSPod Go API client
 
 [![Build Status](https://travis-ci.com/nrdcg/dnspod-go.svg?branch=master)](https://travis-ci.com/nrdcg/dnspod-go)
-[![GoDoc](https://godoc.org/github.com/nrdcg/dnspod-go?status.svg)](https://godoc.org/github.com/nrdcg/dnspod-go)
-[![Go Report Card](https://goreportcard.com/badge/github.com/nrdcg/dnspod-go)](https://goreportcard.com/report/github.com/nrdcg/dnspod-go)
+[![GoDoc](https://godoc.org/github.com/morya/dnspod-go?status.svg)](https://godoc.org/github.com/morya/dnspod-go)
+[![Go Report Card](https://goreportcard.com/badge/github.com/morya/dnspod-go)](https://goreportcard.com/report/github.com/morya/dnspod-go)
 
 A Go client for the [DNSPod API](https://www.dnspod.cn/docs/index.html).
 
@@ -19,7 +19,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/nrdcg/dnspod-go"
+	"github.com/morya/dnspod-go"
 )
 
 func main() {
